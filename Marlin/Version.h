@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-//#define SHORT_BUILD_VERSION "2.0.4.4"
+//#define SHORT_BUILD_VERSION "2.0.5.3"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -46,7 +46,7 @@
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "Artillery_Sidewinder_X1"
+//#define MACHINE_NAME "3D Printer"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -54,12 +54,12 @@
  * has a distinct Github fork— the Source Code URL should just be the main
  * Marlin repository.
  */
-#define SOURCE_CODE_URL "https://github.com/Pascal-m/Marlin/tree/Personnalisation_Pascal"
+//#define SOURCE_CODE_URL "https://github.com/MarlinFirmware/Marlin"
 
 /**
  * Default generic printer UUID.
  */
-#define DEFAULT_MACHINE_UUID "cede2a2f-41a2-4748-9b12-c55c62f367ff"
+//#define DEFAULT_MACHINE_UUID "cede2a2f-41a2-4748-9b12-c55c62f367ff"
 
 /**
  * The WEBSITE_URL is the location where users can get more information such as
